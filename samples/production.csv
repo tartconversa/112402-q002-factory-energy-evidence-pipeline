@@ -1,0 +1,4 @@
+row_id,line,period,good_units,scope
+P1,L-A,2026-08,900,final
+P2,L-A,2026-09,1000,final
+P3,L-B,2026-09,600,includes-rework

@@ -1,0 +1,4 @@
+reading,meter,line,period,kwh,version
+R1,E-1,L-A,2026-08,8100,v1
+R2,E-2,L-A,2026-09,8700,v2
+R3,E-3,L-B,2026-09,,v1
